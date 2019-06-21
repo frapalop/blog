@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to frapalop blog
 
-You can use the [editor on GitHub](https://github.com/frapalop/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is obviously a test.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will keep publishing new versions as soon as I have some time.
 
-### Markdown
+### My emails is
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+my name and surname AT gm... you know...
 
-```markdown
+```I leave the below as an example.
+
 Syntax highlighted code block
 
 # Header 1
